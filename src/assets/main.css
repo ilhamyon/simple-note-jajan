@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+
+/* base styles */
+body {
+    font-family: "Poppins";
+}
+
+.list-group-item {
+    font-size: 14px;
+    border: none;
+    padding: 10px;
+}
+
+.list-group {
+    border-top: 1px solid rgba(128, 128, 128, 0.2);
+}
